@@ -1,0 +1,104 @@
+{
+    "title": "CFMM-7T: MP2RAGE T1 mapping",
+    "creators": [
+        {
+            "name": "Roy Haast"
+        },
+        {
+            "name": "Jonathan C. Lau"
+        },
+        {
+            "name": "Ali Khan"
+        }
+    ],
+    "description": "BIDS-formatted 7T MRI MP2RAGE and Sa2RAGE data acquired at the Centre for Functional and Metabolic Mapping in London (Ontario, Canada) + Snakemake workflow for analyses as performed in 'Effects of MP2RAGE B1+ sensitivity on inter-site T1 reproducibility and morphometry at 7T'",
+    "version": "2020-10-02T12:55:03.086599",
+    "licenses": [
+        {
+            "name": "CC-By Attribution 4.0 International"
+        }
+    ],
+    "dates": [
+        {
+            "date": "2020-09-10 17:45:25",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2020-10-02 12:55:03",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "keywords": [
+        {
+            "value": "7T"
+        },
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "MP2RAGE"
+        },
+        {
+            "value": "MRI"
+        },
+        {
+            "value": "Neuroscience"
+        },
+        {
+            "value": "Sa2RAGE"
+        },
+        {
+            "value": "T1 mapping"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 5.5,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/k5zb9/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "645"
+                }
+            ]
+        }
+    ],
+    "identifier": {
+        "identifier": "10.17605/OSF.IO/K5ZB9",
+        "identifierSource": "OSF DOI"
+    },
+    "types": [
+        {
+            "value": "MRI"
+        },
+        {
+            "value": "imaging"
+        }
+    ]
+}
